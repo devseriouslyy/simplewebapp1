@@ -17,7 +17,7 @@
 8. Special tanks to Github copilot - the one who actually provided the code that i could play around with. 
 
 Go forward plan:
-1. Upload the code to guthub -
+1. Upload the code to guthub - DONE
 2. Dockerize this app and publish the container code -
 3. Make this application avialable online through any free web host -
 4. Explain the code line by line and upload to guthub - 
