@@ -19,6 +19,6 @@ Also, app.py and templates directory should be inside the same directory.
 Go forward plan:
 
 1. Upload the code to guthub - DONE
-2. Dockerize this app and publish the container code -TBD
+2. Dockerize this app and publish the container code -DONE
 3. Make this application avialable online through any free web host - TBD
 4. Explain the code line by line and upload to guthub - TBD
